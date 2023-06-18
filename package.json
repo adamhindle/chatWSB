@@ -20,11 +20,13 @@
   "homepage": "https://github.com/KeystoneScience/WSB_stock_trade#readme",
   "dependencies": {
     "@alpacahq/alpaca-trade-api": "^2.12.1",
+    "aws-sdk": "^2.1399.0",
     "axios": "^0.26.1",
     "dotenv": "^16.0.3",
     "fs": "^0.0.1-security",
     "node-cron": "^3.0.2",
     "node-fetch": "^2.6.11",
+    "openai": "^3.3.0",
     "pg-escape": "^0.2.0",
     "pigpio": "^3.3.1",
     "puppeteer": "^13.5.1"
